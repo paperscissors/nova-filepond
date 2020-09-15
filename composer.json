@@ -1,5 +1,5 @@
 {
-    "name": "digital-creative/nova-filepond",
+    "name": "paperscissors/nova-filepond",
     "description": "A Nova field for uploading File, Image and Video using filepond.",
     "keywords": [
         "file",
